@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Halkano Malise Tadicha</h1>
+<h1 align="center" border-shadow="box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;">Hi 👋, I'm Halkano Malise</h1>
 <h3 align="center">A passionate Full-stack developer from Kenya</h3>
 
 <img align='center' alt="Coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"/>
