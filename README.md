@@ -4,7 +4,7 @@
 <img align='center' alt="Coding" width="500" margin-right="auto" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"/>
 
 # 💫 About Me:
-A software engineer with experience in Python, JavaScript (including Express.js and React.js), HTML, and CSS. <br>I'm passionate about building efficient, user-friendly applications and creating clean, maintainable code.<br>Currently working on my Typescript and python framework Skills.
+A software engineer with experience in Python, Ruby, JavaScript (including Express.js and React.js), HTML, and CSS. <br>I'm passionate about building efficient, user-friendly applications and creating clean, maintainable code.<br>Currently working on my Typescript and python framework Skills.
 
 
 ## 🌐 Socials:
