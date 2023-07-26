@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/Malise"><img src="https://api.daily.dev/devcards/02ae83e31e7940cd929d3228823776a6.png?r=inh" width="400" alt="Halkano Malise's Dev Card"/></a>
 <h1 align="center">Hi👋,I'm Halkano Malise</h1>
 <h3 align="center">A passionate Full-stack developer(MERN) </h3>
 
