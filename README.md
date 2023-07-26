@@ -1,8 +1,9 @@
-<a href="https://app.daily.dev/Malise"><img src="https://api.daily.dev/devcards/02ae83e31e7940cd929d3228823776a6.png?r=inh" width="400" alt="Halkano Malise's Dev Card"/></a>
+
 <h1 align="center">Hi👋,I'm Halkano Malise</h1>
 <h3 align="center">A passionate Full-stack developer(MERN) </h3>
 
-<img align='center' alt="Coding" width="500" margin-right="auto" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"/>
+<div display=flex><img align='center' alt="Coding" width="500" margin-right="auto" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"/>
+<a href="https://app.daily.dev/Malise"><img src="https://api.daily.dev/devcards/02ae83e31e7940cd929d3228823776a6.png?r=inh" width="400" alt="Halkano Malise's Dev Card"/></a></div>
 
 # 💫 About Me:
 A software engineer with experience in Python, Ruby, JavaScript (including Express.js and React.js), HTML, and CSS. <br>I'm passionate about building efficient, user-friendly applications and creating clean, maintainable code.<br>Currently working on my Typescript and python framework Skills.
