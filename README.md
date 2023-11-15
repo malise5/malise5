@@ -2,7 +2,7 @@
 <h1 align="center">Hi👋,I'm Halkano Malise</h1>
 <h3 align="center">A Passionate developer</h3>
 
-<img align='center' alt="Coding" width="500" margin-right="auto" margin-left="auto" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"/>
+<img align='center' alt="Coding" width="500" margin-right="auto" margin-left="20px" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"/>
 
 # 💫 About Me:
 A Technical engineer passionate about building efficient, user-friendly applications and creating clean, maintainable code.<br>
@@ -30,8 +30,6 @@ A Technical engineer passionate about building efficient, user-friendly applicat
 ---
 [![](https://visitcount.itsvg.in/api?id=malise5&icon=5&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Halkanomalise@gmail.com) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
