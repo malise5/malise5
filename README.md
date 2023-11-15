@@ -2,10 +2,10 @@
 <h1 align="center">Hi👋,I'm Halkano Malise</h1>
 <h3 align="center">A Passionate developer</h3>
 
-<img align='center' alt="Coding" width="500" margin-right="auto" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"/>
+<img align='center' alt="Coding" width="500" margin-right="auto" margin-left="auto" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"/>
 
 # 💫 About Me:
-A software engineer passionate about building efficient, user-friendly applications and creating clean, maintainable code.<br>
+A Technical engineer passionate about building efficient, user-friendly applications and creating clean, maintainable code.<br>
 
 
 ## 🌐 Socials:
