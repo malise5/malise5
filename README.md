@@ -1,39 +1,80 @@
+<h1 align="center">Hi 👋, I'm Halkano Malise</h1>
+<h3 align="center">Quality Assurance | DevOps Engineer | Java Springboot | Full-Stack Explorer | SRE Learner</h3>
 
-<h1 align="center">Hi👋,I'm Halkano Malise</h1>
-<h3 align="center">A Passionate developer</h3>
+<p align="center">
+  <img src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" width="500" />
+</p>
 
-<img align='center' alt="Coding" width="500" margin-right="auto" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"/>
+---
 
-# 💫 About Me:
-A curious mind passionate about solving problems, exploring technology, and building impactful solutions across science and engineering.<br>
+### 💫 About Me
 
+🔧 I’m a passionate engineer solving problems at the intersection of **development**, **DevOps**, and **testing**.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/halkano-malise-4262bab6/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Kude_Astro) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19630625) 
+- 🧠 Currently exploring Cloud Native DevOps, SRE, and scalable architecture patterns
+- ⚙️ Automating software delivery using **CI/CD pipelines**
+- 💻 Containerization and orchestration with **Docker & Kubernetes**
+- ⚙️ Proficient in **Java Spring Boot** and **React.js**
+- 🌍 Learning in public and sharing open-source starter templates
 
-# 💻 Tech Stack:
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![DevOps](https://img.shields.io/badge/DevOps-%23007ACC.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+---
 
+### 🌐 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halkano-malise-4262bab6/)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/Kude_Astro)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19630625)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=malise5&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=malise5&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=malise5&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=malise5&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### 🧰 Tech Stack
 
-### ✍️ Random Dev Quote
+**Languages & Frameworks:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Databases:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**DevOps & SRE Tools:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![k6](https://img.shields.io/badge/k6-black?style=for-the-badge&logo=k6&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=malise5&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=malise5&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=malise5&theme=radical&layout=compact)
+
+---
+
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=malise5&theme=radical&margin-w=4)
+
+---
+
+### 💡 Quote of the Day
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+---
+
+### 📌 Top Contributed Repos
+
 ![](https://github-contributor-stats.vercel.app/api?username=malise5&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=malise5&icon=5&color=0)](https://visitcount.itsvg.in)
 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Crafted with ❤️ by Halkano Malise -->
